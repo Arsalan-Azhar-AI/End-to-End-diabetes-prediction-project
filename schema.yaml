@@ -1,0 +1,15 @@
+COLUMNS:
+  Pregnancies: int
+  Glucose: int
+  BloodPressure: int
+  SkinThickness: int
+  Insulin: int
+  BMI: float64
+  DiabetesPedigreeFunction: float64
+  Age: int
+  Outcome: int
+ 
+ 
+TARGET_COLUMN:
+  name: Outcome
+  
